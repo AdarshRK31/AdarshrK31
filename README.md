@@ -1,5 +1,7 @@
 # Hey there 👋
 
+
+
 ---
 
 ### 👨‍🎓 About Me
@@ -17,6 +19,35 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+
+  
+
+  
+  <img src="https://www.kali.org/images/kali-logo.svg" width="60" />
+<img src="https://owasp.org/assets/images/logo.png" width="90" />
+
+---
+<p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </p>
 
 ---

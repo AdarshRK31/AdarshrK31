@@ -18,13 +18,21 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
 
-  
 
-  
-  <img src="https://www.kali.org/images/kali-logo.svg" width="60" />
-<img src="https://owasp.org/assets/images/logo.png" width="90" />
+
+
+## 🛡️ Cybersecurity Tools & Skills
+![Nmap](https://img.shields.io/badge/-Nmap-005C0A?style=flat&logo=linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FE7A16?style=flat&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=flat)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat)
+![Netcat](https://img.shields.io/badge/-Netcat-1A1A1A?style=flat&logo=gnu-bash&logoColor=white)
+![Autopsy](https://img.shields.io/badge/-Autopsy-14213D?style=flat&logo=windowsterminal&logoColor=white)
+
+
 
 ---
 <p align="left">
@@ -36,21 +44,10 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
 ---
+
+
+
 
 
 

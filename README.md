@@ -35,6 +35,12 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
 
 
 ---
+
+
+
+
+
+
 <p align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>

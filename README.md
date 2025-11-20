@@ -188,13 +188,10 @@ A secure communication system implementing the **BLOMS Key Pre-Distribution Sche
 
 ### 🌍 Socials
 
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/>
+<a href="https://tryhackme.com/p/AdarshRK" target="_blank">
+  <img src="https://tryhackme.com/img/favicon.png" width="40" alt="TryHackMe"/>
 </a>
 
-<a href="https://leetcode.com/yourprofile" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" alt="LeetCode"/>
-</a>
 
 <a href="mailto:adarshrk568@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Email"/>

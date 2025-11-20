@@ -1,5 +1,6 @@
 # Hey there 👋
 
+<img src="https://streak-stats.demolab.com?user=AdarshRK31&theme=tokyonight" height="165"/>
 
 
 ---
@@ -12,12 +13,39 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+         width="40" alt="HTML" title="HTML"/>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+         width="40" alt="CSS" title="CSS"/>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+         width="40" alt="JavaScript" title="JavaScript"/>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         width="40" alt="Python" title="Python"/>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+         width="40" alt="Linux" title="Linux"/>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+         width="40" alt="Docker" title="Docker"/>
+  </span>
+
+</p>
+
 
 
 
@@ -37,25 +65,97 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
 ---
 
 
-
-
-
+## 🧪 TryHackMe Badges
 
 <p align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/>
+  <!-- 3 Day Streak -->
+  <span>
+    <img src="./3-day-streak.png" 
+         alt="3 Day Streak Badge" 
+         title="3 Day Streak Badge" 
+         width="100" />
+  </span>
+
+  <!-- Webbed -->
+  <span>
+    <img src="./webbed.png" 
+         alt="Webbed Badge" 
+         title="Webbed Badge" 
+         width="110" />
+  </span>
+
+  <!-- cat linux.txt -->
+  <span>
+    <img src="./cat-linux.png" 
+         alt="cat linux.txt Badge" 
+         title="cat linux.txt Badge" 
+         width="100" />
+  </span>
+
+  <!-- Raffle Royalty -->
+  <span>
+    <img src="./raffle-royalty.png" 
+         alt="Raffle Royalty Badge" 
+         title="Raffle Royalty Badge" 
+         width="110" />
+  </span>
+
 </p>
+
+
+---
+
+### 🧰 Developer Tools & IDEs
+<p align="left">
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
+         width="45" alt="VS Code" title="VS Code"/>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
+         width="45" alt="Git" title="Git"/>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" 
+         width="45" alt="Android Studio" title="Android Studio"/>
+  </span>
+
+</p>
+
+
 
 
 
 ---
 
 
+### 🐧 Operating Systems
+<p align="left">
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+         width="45" title="Linux">
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" 
+         width="45" title="Ubuntu">
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" 
+         width="45" title="Windows">
+  </span>
+
+</p>
 
 
 
+---
 
 ### 🌍 Socials
 

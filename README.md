@@ -65,7 +65,7 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
 ---
 
 
-## 🧪 TryHackMe Badges
+##  TryHackMe Badges
 
 <p align="left">
 
@@ -106,7 +106,7 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
 
 ---
 
-### 🧰 Developer Tools & IDEs
+###  Developer Tools & IDEs
 <p align="left">
 
   <span>
@@ -133,7 +133,7 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
 ---
 
 
-### 🐧 Operating Systems
+###  Operating Systems
 <p align="left">
 
   <span>
@@ -153,6 +153,35 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
 
 </p>
 
+---
+##  Featured Projects
+
+### 🛡️ Web Application Firewall (WAF)
+A custom-built Web Application Firewall that allows even non-technical users to **create custom security rules**, monitor requests, and detect attacks in real time.
+- User-friendly rule creation interface designed for non-technical users
+- Real-time monitoring of incoming HTTP requests
+- Detects SQL Injection, XSS, LFI, RCE, and pattern-based attacks
+- Dynamic request blocking using custom rule logic
+- Analytics dashboard for viewing blocked requests and attack patterns
+- Built to be lightweight, modular, and easy to integrate in any environment
+
+
+
+### 🚑 IoT-Driven Smart Ambulance System  
+A real-time IoT solution for optimizing emergency response using:
+- GPS-based location tracking  
+- Real-time traffic updates  
+- Patient vitals monitoring  
+- Automatic hospital alerting  
+Designed to reduce ambulance travel time and improve critical care.
+
+
+
+### 🔒 Secure-Connect-System (BLOMS Scheme)  
+A secure communication system implementing the **BLOMS Key Pre-Distribution Scheme** to enable:
+- Encrypted peer-to-peer communication  
+- Robust key management  
+- Scalable secure network connectivity
 
 
 ---
@@ -167,7 +196,7 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" alt="LeetCode"/>
 </a>
 
-<a href="mailto:youremail@example.com">
+<a href="mailto:adarshrk568@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Email"/>
 </a>
 

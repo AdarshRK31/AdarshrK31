@@ -1,14 +1,28 @@
 # Hey there 👋
 
-<img src="https://streak-stats.demolab.com?user=AdarshRK31&theme=tokyonight" height="165"/>
 
 
----
+
+
+
+
+
+
+
+
+
+
 
 ### 👨‍🎓 About Me
 Dedicated B.Tech Computer Science student specializing in **Cyber Security** at **Amrita Vishwa Vidyapeetham, Coimbatore**. Skilled in identifying vulnerabilities, securing systems, and analyzing threats with strong problem-solving abilities and hands-on experience in security projects. A proactive, detail-focused team player with strong communication skills, committed to continuous learning and contributing to a safe, secure, and collaborative environment.
 
 ---
+
+
+## Contribution Streak
+<img src="https://streak-stats.demolab.com?user=AdarshRK31&theme=tokyonight" height="165"/>
+
+
 
 ### 🛠️ Languages & Tools
 
@@ -185,16 +199,30 @@ A secure communication system implementing the **BLOMS Key Pre-Distribution Sche
 
 
 ---
+## 🏅 Certifications
+
+- 🎖️ **ISAC Certified Cyber Crime Intervention Officer** *(2023–2026)*
+- 🛡️ **Cyber Security Certification – Corizo** (Completed on July 28th, 2024 – August 1st, 2024)
+- 🔐 **Certified Ethical Hacker (CEH) – EC Council**  (*Currently pursuing*)
+
+---
+
+## 🏆 Achievements
+
+- 🌟 **Rajyapuraskar Award**  
+  The Rajya Puraskar Award (Governor's Award) is one of the highest honors in the Scouts and Guides movement.  
+  Awarded for excellence in leadership, discipline, community service, and outdoor skills.
+
 
 ### 🌍 Socials
 
 <a href="https://tryhackme.com/p/AdarshRK" target="_blank">
-  <img src="https://tryhackme.com/img/favicon.png" width="40" alt="TryHackMe"/>
+  <img src="https://tryhackme.com/img/favicon.png" width="40" alt="TryHackMe" title="TryHackMe"/>
 </a>
-
 
 <a href="mailto:adarshrk568@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Email"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Email" title="Send Email"/>
 </a>
+
 
 ---

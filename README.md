@@ -199,17 +199,20 @@ A secure communication system implementing the **BLOMS Key Pre-Distribution Sche
 
 
 ---
-## 🏅 Certifications
+## Certifications
 
-- 🎖️ **ISAC Certified Cyber Crime Intervention Officer** *(2023–2026)*
-- 🛡️ **Cyber Security Certification – Corizo** (Completed on July 28th, 2024 – August 1st, 2024)
-- 🔐 **Certified Ethical Hacker (CEH) – EC Council**  (*Currently pursuing*)
+- Certified Ethical Hacker (CEH) – EC-Council (Feb 2026)
+- Security Operations Fundamentals – Palo Alto Networks (Oct 2025)
+- Cloud Security Fundamentals – Palo Alto Networks (Aug 2025)
+- Splunk Certification – DevTown (Oct 2025)
+- ISAC Certified Cyber Crime Intervention Officer (Sep 2023)
+- Cyber Security Certification – Corizo (Jul 2024 – Aug 2024)
 
 ---
 
 ## 🏆 Achievements
 
-- 🌟 **Rajyapuraskar Award**  
+-  **Rajyapuraskar Award**  
   The Rajya Puraskar Award (Governor's Award) is one of the highest honors in the Scouts and Guides movement.  
   Awarded for excellence in leadership, discipline, community service, and outdoor skills.
 

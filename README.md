@@ -13,8 +13,11 @@
 
 
 
-### 👨‍🎓 About Me
-Dedicated B.Tech Computer Science student specializing in **Cyber Security** at **Amrita Vishwa Vidyapeetham, Coimbatore**. Skilled in identifying vulnerabilities, securing systems, and analyzing threats with strong problem-solving abilities and hands-on experience in security projects. A proactive, detail-focused team player with strong communication skills, committed to continuous learning and contributing to a safe, secure, and collaborative environment.
+### 👨‍💻 About Me
+
+I'm a **B.Tech Computer Science graduate specializing in Cyber Security** from **Amrita Vishwa Vidyapeetham, Coimbatore**, focused on **VAPT, Penetration Testing, Web Application Security, and Offensive Security**.
+
+I have hands-on experience with **Nmap, Burp Suite, Metasploit, Gobuster, Feroxbuster, Wireshark, Shodan, and Kali Linux**, developed through **TryHackMe labs, CTF challenges, and cybersecurity projects**. I'm passionate about identifying vulnerabilities, understanding attack techniques, and continuously improving my skills in **Offensive Security and Security Research**.
 
 ---
 

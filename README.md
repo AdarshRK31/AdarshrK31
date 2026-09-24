@@ -115,15 +115,15 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
          width="110" />
   </span>
 
-<! MR Robot >
+<!-- MR Robot -->
   <span>
-    <img src="./MR Robot.png" 
+    <img src="./MR_Robot.png" 
          alt="Mr Robot Badge" 
          title="Mr Robot Badge" 
          width="110" />
   </span>
 
-  <! Blue >
+  <!-- Blue -->
   <span>
     <img src="./Blue.png" 
          alt="Mr Blue Badge" 

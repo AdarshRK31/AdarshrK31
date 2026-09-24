@@ -75,6 +75,62 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
 ![Autopsy](https://img.shields.io/badge/-Autopsy-14213D?style=flat&logo=windowsterminal&logoColor=white)
 
 
+### 🔎 Reconnaissance & Enumeration
+
+![Nmap](https://img.shields.io/badge/-Nmap-005C0A?style=flat&logo=linux&logoColor=white)
+![Gobuster](https://img.shields.io/badge/-Gobuster-00A86B?style=flat&logo=gnu-bash&logoColor=white)
+![Dirbuster](https://img.shields.io/badge/-Dirbuster-FE7A16?style=flat&logo=linux&logoColor=white)
+![Feroxbuster](https://img.shields.io/badge/-Feroxbuster-6A1B9A?style=flat&logo=rust&logoColor=white)
+![Shodan](https://img.shields.io/badge/-Shodan-CC0000?style=flat)
+![Netcat](https://img.shields.io/badge/-Netcat-1A1A1A?style=flat&logo=gnu-bash&logoColor=white)
+
+
+### 🌐 Web Application Security
+
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FE7A16?style=flat&logo=burp-suite&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=flat)
+
+
+
+### 🌐 Network Security
+
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-005C0A?style=flat&logo=linux&logoColor=white)
+![SSH](https://img.shields.io/badge/-SSH-222222?style=flat&logo=openssh&logoColor=white)
+
+
+### 🧪 Forensics & CTF Tools
+
+![Autopsy](https://img.shields.io/badge/-Autopsy-14213D?style=flat)
+![ExifTool](https://img.shields.io/badge/-ExifTool-444444?style=flat)
+![Binwalk](https://img.shields.io/badge/-Binwalk-333333?style=flat)
+![zsteg](https://img.shields.io/badge/-zsteg-555555?style=flat)
+![Stegsolve](https://img.shields.io/badge/-Stegsolve-777777?style=flat)
+![GDB](https://img.shields.io/badge/-GDB-000000?style=flat&logo=gnu)
+
+
+## 💻 Languages & Scripting
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+width="45" alt="Python" title="Python"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+width="45" alt="Bash" title="Bash"/>
+
+</p>
+
+**Focus Areas:**  
+OWASP Top 10 • Web Enumeration • Directory Discovery • Vulnerability Identification • Exploitation Fundamentals • HTTP/HTTPS
+
+**Networking:**  
+TCP/IP • DNS • HTTP/HTTPS • SSH • Network Enumeration • Packet Analysis • Firewall Concepts
+
+
+
+
 
 ---
 
@@ -214,6 +270,28 @@ A secure communication system implementing the **BLOMS Key Pre-Distribution Sche
 
 
 ---
+
+
+## 🧪 Hands-on Cybersecurity Experience
+
+### TryHackMe
+
+- Completed **23+ hands-on cybersecurity rooms** covering reconnaissance, network enumeration, web security, vulnerability assessment, and exploitation.
+- Practiced **active/passive reconnaissance, service enumeration, directory discovery, web application testing, and vulnerability identification** using Nmap, Burp Suite, Metasploit, Gobuster, and Feroxbuster.
+- Achieved **Top 20% global ranking** and earned **6 cybersecurity badges**.
+
+### Capture The Flag (CTF) Experience
+
+#### 🖥️ Vulnerable Machines & Security Labs
+
+- **Mr. Robot CTF** — Web enumeration, vulnerability identification, WordPress security testing, and Linux privilege escalation.
+- **Earth** — Network and web enumeration, attack-surface analysis, vulnerability identification, and exploitation.
+- **Cybersploit1** — Web enumeration, vulnerability analysis, SUID enumeration, exploitation, and Linux privilege escalation.
+- **Cybersploit2** — Web enumeration, credential analysis, Docker/container enumeration, container escape techniques, and privilege escalation.
+- **Chocolate Factory** — Web enumeration, hidden-content discovery, exploitation, and Linux privilege escalation.
+
+---
+
 ## Certifications
 
 - Certified Ethical Hacker (CEH) – EC-Council (Feb 2026)
@@ -242,5 +320,10 @@ A secure communication system implementing the **BLOMS Key Pre-Distribution Sche
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Email" title="Send Email"/>
 </a>
 
+<a href="https://www.linkedin.com/in/adarsh-rk/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+       alt="LinkedIn"
+       title="LinkedIn"/>
+</a>
 
 ---

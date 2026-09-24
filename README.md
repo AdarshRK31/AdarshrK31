@@ -105,7 +105,7 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
          alt="cat linux.txt Badge" 
          title="cat linux.txt Badge" 
          width="100" />
-  </span>
+  </span> 
 
   <!-- Raffle Royalty -->
   <span>
@@ -115,6 +115,21 @@ Dedicated B.Tech Computer Science student specializing in **Cyber Security** at 
          width="110" />
   </span>
 
+<! MR Robot >
+  <span>
+    <img src="./MR Robot.png" 
+         alt="Mr Robot Badge" 
+         title="Mr Robot Badge" 
+         width="110" />
+  </span>
+
+  <! Blue >
+  <span>
+    <img src="./Blue.png" 
+         alt="Mr Blue Badge" 
+         title="Mr Blue Badge" 
+         width="110" />
+  </span>
 </p>
 
 
